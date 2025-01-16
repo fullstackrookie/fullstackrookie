@@ -8,5 +8,4 @@
 - ⚡ Fun fact: ...
 
 
-https://github-readme-stats.vercel.app/api?username=fullstackrookies&show_icons=true&theme=shadow_red&hide=stars)](https://github.com/fullstackrookie/github-readme-stats))]
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstackrookie&show_icons=true&theme=shadow_red&hide=stars)](https://github.com/fullstackrookie/github-readme-stats)
