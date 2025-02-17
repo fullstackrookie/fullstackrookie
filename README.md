@@ -1,8 +1,10 @@
 💻 Levi Mark | Java & C# Developer
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFAA3D&width=435&lines=FullstackRookie+;Java%2FC%23+Developer" alt="Typing SVG" /></a>
 
-👋 Hi, I'm @fullstackrookie
+👋 Hi, I'm @levimarkmuigai
+
 👀 Passionate about Backend Development
+
 🌱 Currently diving deeper into Java Development
 
 🛠 Tech Stack
