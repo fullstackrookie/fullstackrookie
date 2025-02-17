@@ -5,8 +5,8 @@
 - 🌱dotnet
 - levimarkmuigai@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstackrookie&show_icons=true&theme=great-gatsby)](https://github.com/fullstackrookie/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstackrookie&show_icons=true&theme=great-gatsby)](https://github.com/levimarkmuigai/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstackrookie&show_icons=true&cache_seconds=1600&locale=en&layout=compact&theme=dark" alt="fullstackrookie" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levimarkmuigai&show_icons=true&cache_seconds=1600&locale=en&layout=compact&theme=dark" alt="levimarkmuigai" /></p>
 
 
