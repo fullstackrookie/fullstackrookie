@@ -1,8 +1,8 @@
-💻 FullstackRookie | Java & C# Developer
+💻 Levi Mark | Java & C# Developer
 
 👋 Hi, I'm @fullstackrookie
 👀 Passionate about App Development
-🌱 Currently diving deeper into .NET Development
+🌱 Currently diving deeper into Java Development
 
 🛠 Tech Stack
 🔹 Languages: Java, C#, JavaScript
