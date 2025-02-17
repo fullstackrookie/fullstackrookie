@@ -16,4 +16,3 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=levimarkmuigai&show_icons=true&theme=great-gatsby" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levimarkmuigai&show_icons=true&layout=compact&theme=dark" alt="Top Languages" /> </p>
 📫 Contact Me
 📧 Email: levimarkmuigai@gmail.com
-🔗 LinkedIn: (Add your LinkedIn link if you have one)
