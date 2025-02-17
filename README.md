@@ -9,9 +9,13 @@
 
 🛠 Tech Stack
 🔹 Languages: Java, C#, JavaScript
+
 🔹 Backend: .NET, ASP.NET Core
+
 🔹 Frontend: HTML, CSS, JavaScript
+
 🔹 Database: PostgreSQL
+
 🔹 Tools & OS: Arch Linux, Neovim, Git
 
 📊 GitHub Stats
